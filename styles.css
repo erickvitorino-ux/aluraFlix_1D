@@ -7,14 +7,14 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgb(255, 41, 223)
+    border-bottom: solid 2px rgb(255,41,223);
     padding: 20px;
     font-size: 32px;
-    color: rgb(255, 27, 255))
+    color: rgb(225,27,255);
 }
 
 .chamada {
-    background:rgb(0, 0, 122)
+    background: rgb(0,0,122);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -56,7 +56,5 @@ p {
 }
 
 .categoria h2 {
-    color:rgb(255, 0, 0)
+    color: rgb(250,0,0);
 }
-
-Postada por TATIANA FREIBERGER NEIVA
